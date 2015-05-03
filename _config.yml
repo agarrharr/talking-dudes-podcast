@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Podcast
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Adam Harris
+description: "A podcast"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://podcast.adamwadeharris.com"
 
 # Google analytics
 google_analytics:
