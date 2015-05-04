@@ -11,6 +11,10 @@ layout: default
 </div>
 
 <article class="post-content">
+  {% if page.link %}
+      {% include audioPlayer.html path=page.link %}
+  {% endif %}
+
   {{ content }}
 </article>
 
