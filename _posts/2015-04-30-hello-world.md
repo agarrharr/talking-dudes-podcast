@@ -8,3 +8,11 @@ speaker:
 image:
 keywords:
 ---
+
+Picks:
+
+1. [0h h1](http://0hh1.com/)- Adam
+1. [fighting-game](https://github.com/aharris88/fighting-game)- Adam
+1. [Powershell](http://en.wikipedia.org/wiki/Windows_PowerShell)- Jonathan
+1. [Bates Motel](http://en.wikipedia.org/wiki/Bates_Motel_(TV_series))- Jonathan
+1. [Doctor Who](http://en.wikipedia.org/wiki/Doctor_Who)- Jonathan
