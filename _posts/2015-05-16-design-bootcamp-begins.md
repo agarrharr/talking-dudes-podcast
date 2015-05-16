@@ -2,7 +2,7 @@
 layout: post
 title: Design Bootcamp Begins
 summary: In which we talk to my wife about going to a design bootcamp
-link: https://s3.amazonaws.com/podcast.adamwadeharris.com/2015-05-16-3.mp3
+link: https://s3.amazonaws.com/talkingdudes/2015-05-16-3.mp3
 length: 1:03:19
 permalink: /3
 ---
