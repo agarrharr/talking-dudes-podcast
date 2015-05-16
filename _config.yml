@@ -8,7 +8,7 @@ baseurl: ""
 url: "http://www.talkingdudes.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-31980509-10
 
 # Optional features
 animated:           false
