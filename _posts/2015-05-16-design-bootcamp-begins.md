@@ -11,7 +11,7 @@ Picks:
 
 1. [Everybody Loves Raymond](http://en.wikipedia.org/wiki/Everybody_Loves_Raymond)- Jonathan
 1. [Quantum](http://www.amazon.com/Passport-Game-Studios-BAN196528-Quantum/dp/B00GXZUUEM)- Adam
-1. [I Zombie](http://www.imdb.com/title/tt3501584/)- Rebecca
+1. [I, Zombie](http://www.imdb.com/title/tt3501584/)- Rebecca
 1. [Reddit](http://www.reddit.com/)- Adam
 1. [Ting](https://ting.com/)- Adam
 1. [Harry Potter](http://en.wikipedia.org/wiki/Harry_Potter)- Rebecca
