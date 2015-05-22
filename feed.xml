@@ -15,7 +15,7 @@
 		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
 		<image>
 			<link>{{ site.url}}</link>
-			<url>{{ site.squareLogo}}</url>
+			<url>{{site.url}}/{{ site.squareLogo}}</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.podcastSubtitle }}</itunes:subtitle>
