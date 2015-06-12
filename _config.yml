@@ -1,7 +1,7 @@
 title: Podcast
 podcastSubtitle:
-email: aharris88@gmail.com
 managerName: Adam Harris
+managerEmail: aharris88@gmail.com
 squareLogo: assets/uploads/logo.jpg
 description: "A podcast"
 baseurl: ""
