@@ -26,9 +26,7 @@
 			<itunes:email>{{ site.managerEmail}}</itunes:email>
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/{{ site.squareLogo}}" />
-		<itunes:category text="Religion &amp; Spirituality">
-			<itunes:category text="Christianity" />
-		</itunes:category>
+		<itunes:category text="Comedy"></itunes:category>
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title }}</title>
