@@ -11,7 +11,7 @@ permalink: /7
 
 46:32- There needs to be less quality television. That’s the real problem we have. I have no motivation to leave my couch.
 
-## Timestamps
+## Topics
 
 2:09- Tangle
 
