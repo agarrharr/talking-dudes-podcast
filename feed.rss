@@ -37,11 +37,12 @@
 				<enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ post.speaker }}</itunes:author>
 				<itunes:subtitle></itunes:subtitle>
-				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.podcastLength }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:image href="{% if post.image %}{{ site.url }}/{{ post.image }}{% else %}{{ site.url }}/{{site.squareLogo}}{% endif %}" />
-				<itunes:explicit>no</itunes:explicit>
+				<itunes:explicit>clean</itunes:explicit>
+				<itunes:summary>{{ post.summary }}</itunes:summary>
+				<content:encoded>{{ post.content | xml_escape }}</content:encoded>
 			</item>
 		{% endfor %}
 	</channel>
