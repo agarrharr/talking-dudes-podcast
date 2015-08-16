@@ -3,6 +3,7 @@ layout: post
 title: The Bro Show
 summary: In which we talk about Jonathan's short lived dream of becoming a radio DJ.
 link: https://s3.amazonaws.com/talkingdudes/2015-06-04-5.mp3
+size: 66641854
 length: '1:09:24'
 permalink: /5
 ---

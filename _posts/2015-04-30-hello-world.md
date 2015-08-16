@@ -3,6 +3,7 @@ layout: post
 title: Hello World
 summary: In which we kick off the podcast that has no name yet
 link: https://s3.amazonaws.com/talkingdudes/2015-04-30-1.mp3
+size: 65727361
 length: '01:08:27'
 permalink: /1
 ---

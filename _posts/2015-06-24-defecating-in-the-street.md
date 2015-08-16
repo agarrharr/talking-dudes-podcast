@@ -3,6 +3,7 @@ layout: post
 title: Defecating In The Street
 summary: In which we have Aaron Costley as a guest and discuss everything from defecation, to app ideas and anime.
 link: https://s3.amazonaws.com/talkingdudes/2015-06-24-6.mp3
+size: 69692379
 length: '1:12:34'
 permalink: /6
 ---

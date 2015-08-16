@@ -7,11 +7,11 @@
 		<description>{{ site.description }}</description>
 		<link>{{ site.url }}</link>
 		<language>en</language>
-		<managingEditor>{{ site.managerName }} ({{ site.managerEmail }})</managingEditor>
-		<webMaster>{{ site.managerName }} ({{ site.managerEmail }})</webMaster>
+		<managingEditor>{{ site.managerEmail }} ({{ site.managerName }})</managingEditor>
+		<webMaster>{{ site.managerEmail }} ({{ site.managerName }})</webMaster>
 		<copyright>2014-{{site.time | "%Y" }} {{ site.organizationName }}</copyright>
 		<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y" }}</lastBuildDate>
+		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</lastBuildDate>
 		<image>
 			<link>{{ site.url}}</link>
 			<url>{{ site.url }}/{{ site.squareLogo}}</url>
@@ -27,22 +27,22 @@
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/{{ site.squareLogo}}" />
 		<itunes:category text="Comedy"></itunes:category>
+		<itunes:explicit>clean</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title }}</title>
 				<link>{{ site.url }}/{{ post.url }}</link>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-				<description>{{ post.description }}</description>
 				<guid isPermaLink="true">{{ post.link }}</guid>
-				<enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mp3"/>
+				<enclosure url="{{ post.link }}" length="{{ post.size }}" type="audio/mp3"/>
 				<itunes:author>{{ post.speaker }}</itunes:author>
 				<itunes:subtitle></itunes:subtitle>
-				<itunes:duration>{{ post.podcastLength }}</itunes:duration>
+				<itunes:duration>{{ post.length }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:image href="{% if post.image %}{{ site.url }}/{{ post.image }}{% else %}{{ site.url }}/{{site.squareLogo}}{% endif %}" />
 				<itunes:explicit>clean</itunes:explicit>
-				<itunes:summary>{{ post.summary }}</itunes:summary>
-				<content:encoded>{{ post.content | xml_escape }}</content:encoded>
+				<itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
+				<description><![CDATA[{{ post.content }}]]></description>
 			</item>
 		{% endfor %}
 	</channel>

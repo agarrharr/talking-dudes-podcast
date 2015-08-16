@@ -3,6 +3,7 @@ layout: post
 title: Till We Have Faces
 summary: In which we discuss nothing in particular
 link: https://s3.amazonaws.com/talkingdudes/2015-08-13-9.mp3
+size: 37024361
 length: '38:33'
 permalink: /9
 ---
@@ -31,7 +32,7 @@ Contains some spoilers for the book Till We Have Faces by C. S. Lewis.
 
 [Hang in there cat](http://www.webtoons.com/en/comedy/the-gentlemans-armchair/ep-13-hang-in-there/viewer?title_no=469&episode_no=13)
 
-[Movie Rating Site](rinema.com)
+[Movie Rating Site](http://www.rinema.com)
 
 [Fantastic Four](http://www.rottentomatoes.com/m/fantastic_four_2015/)
 
@@ -43,7 +44,7 @@ Contains some spoilers for the book Till We Have Faces by C. S. Lewis.
 
 [Ready Player One](http://www.amazon.com/gp/product/0307887448/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0307887448&linkCode=as2&tag=adahar04-20&linkId=N6CFY4EWBVPJQD5T)
 
-[Gunter’s Almanac](guntersalmanac.com)
+[Gunter’s Almanac](http://www.guntersalmanac.com)
 
 [hak5](http://hak5.org/)
 

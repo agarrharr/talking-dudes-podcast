@@ -3,6 +3,7 @@ layout: post
 title: Constant Total Amazement
 summary: In which we discuss Facebook quotes and issue our first challenge
 link: https://s3.amazonaws.com/talkingdudes/2015-07-23-7.mp3
+size: 55017787
 length: '57:18'
 permalink: /7
 ---
