@@ -33,8 +33,8 @@
 				<title>{{ post.title }}</title>
 				<link>{{ site.url }}/{{ post.url }}</link>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-				<guid isPermaLink="true">{{ post.link }}</guid>
-				<enclosure url="{{ post.link }}" length="{{ post.size }}" type="audio/mp3"/>
+				<guid isPermaLink="true">http://www.podtrac.com/pts/redirect.mp3/{{ post.link }}</guid>
+				<enclosure url="http://www.podtrac.com/pts/redirect.mp3/{{ post.link }}" length="{{ post.size }}" type="audio/mp3"/>
 				<itunes:author>{{ post.speaker }}</itunes:author>
 				<itunes:subtitle></itunes:subtitle>
 				<itunes:duration>{{ post.length }}</itunes:duration>
