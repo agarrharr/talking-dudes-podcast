@@ -4,7 +4,7 @@ title: Ant Infestation
 summary: In which we discuss movies, text editors, Google, Deez Nutz, and an ant infestation.
 link: https://s3.amazonaws.com/talkingdudes/2015-09-01-11.mp3
 size: 55884763
-length: '58:12'
+length: '01:04:44'
 permalink: /11
 ---
 
