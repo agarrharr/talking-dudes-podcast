@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All Links Lead to Wikipedi
+title: All Links Lead to Wikipedia
 summary: In which we discuss batman, super hero movies, Google's new logo, Windows 10, cameras, and wikipedia links.
 link: https://s3.amazonaws.com/talkingdudes/2015-09-16-12.mp3
 size: 38668530
