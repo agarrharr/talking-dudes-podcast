@@ -18,20 +18,20 @@ Contains spoilers for the movie/book, American Psycho.
 
 [Wired In](http://wearewired.in/)
 
-[Modern Romance](http://www.amazon.com/gp/product/1594206279/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1594206279&linkCode=as2&tag=adahar04-20&linkId=ZS5TRB3Z4HQV4HPV)
+[Modern Romance](http://www.amazon.com/gp/product/1594206279/?tag=adahar09-20)
 
 [Adam’s Homescreen]({{site.url}}{{site.baseurl}}/assets/uploads/2015/08/homescreen.png)
 
 [Trump Tower](http://www.chicagotribune.com/news/local/breaking/ct-chicago-sign-ordinance-met-0917-20140917-story.html)
 
-[What’s Eating Gilbert Grape](http://www.amazon.com/gp/product/B001B2JHVE/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001B2JHVE&linkCode=as2&tag=adahar04-20&linkId=RVPW3IKJ6NGIQS6B)
+[What’s Eating Gilbert Grape](http://www.amazon.com/gp/product/B001B2JHVE/?tag=adahar09-20)
 
-[School of Rock](http://www.amazon.com/gp/product/B000IZ6P1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000IZ6P1K&linkCode=as2&tag=adahar04-20&linkId=OMCPRERLBMPQV5JA)
+[School of Rock](http://www.amazon.com/gp/product/B000IZ6P1K/?tag=adahar09-20)
 
-[Top Gun](http://www.amazon.com/gp/product/B001K3K5MO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001K3K5MO&linkCode=as2&tag=adahar04-20&linkId=UQZI6GU2T2U4OYSB)
+[Top Gun](http://www.amazon.com/gp/product/B001K3K5MO/?tag=adahar09-20)
 
-[American Psycho](http://www.amazon.com/gp/product/B002PA8Q1S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002PA8Q1S&linkCode=as2&tag=adahar04-20&linkId=AHRVSVMYIN7LKPKG)
+[American Psycho](http://www.amazon.com/gp/product/B002PA8Q1S/?tag=adahar09-20)
 
-[Black Mirror](http://www.amazon.com/gp/product/B008M0P9I8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008M0P9I8&linkCode=as2&tag=adahar04-20&linkId=5RNHQCNMPAKJDBVY)
+[Black Mirror](http://www.amazon.com/gp/product/B008M0P9I8/?tag=adahar09-20)
 
-[The Machinist](http://www.amazon.com/gp/product/B000IZ6FLK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000IZ6FLK&linkCode=as2&tag=adahar04-20&linkId=PQSTPB44NPTWU74K)
+[The Machinist](http://www.amazon.com/gp/product/B000IZ6FLK/?tag=adahar09-20)

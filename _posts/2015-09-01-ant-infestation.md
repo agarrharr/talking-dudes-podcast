@@ -18,37 +18,37 @@ permalink: /11
 
 [Audible](http://www.audible.com/)
 
-[Hitchhiker’s Guide to the Galaxy](http://www.amazon.com/gp/product/0345391802/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345391802&linkCode=as2&tag=adahar04-20&linkId=2QHLLMINPTJJPSHE)
+[Hitchhiker’s Guide to the Galaxy](http://www.amazon.com/gp/product/0345391802/?tag=adahar09-20)
 
 [Trunk Club](https://www.trunkclub.com/)
 
-[Inception](http://www.amazon.com/gp/product/B0047WJ12K/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0047WJ12K&linkCode=as2&tag=adahar04-20&linkId=4WZSMEKASQDGRTST)
+[Inception](http://www.amazon.com/gp/product/B0047WJ12K/?tag=adahar09-20)
 
-[X-Men Origins: Wolverine](http://www.amazon.com/gp/product/B004UPANAI/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004UPANAI&linkCode=as2&tag=adahar04-20&linkId=3PFVYRLKVIQULI45)
+[X-Men Origins: Wolverine](http://www.amazon.com/gp/product/B004UPANAI/?tag=adahar09-20)
 
 [Deadpool](http://www.imdb.com/title/tt1431045/)
 
-[Topgun](http://www.amazon.com/gp/product/B002A9VJ40/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002A9VJ40&linkCode=as2&tag=adahar04-20&linkId=ZHORVGFAKBB23WQB)
+[Topgun](http://www.amazon.com/gp/product/B002A9VJ40/?tag=adahar09-20)
 
-[Punch Drunk Love](http://www.amazon.com/gp/product/B004GJ1YCO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004GJ1YCO&linkCode=as2&tag=adahar04-20&linkId=VVIFJIC5S5JYWLGA)
+[Punch Drunk Love](http://www.amazon.com/gp/product/B004GJ1YCO/?tag=adahar09-20)
 
-[Seeking a Friend for the End of the World](http://www.amazon.com/gp/product/B009VB9FWS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009VB9FWS&linkCode=as2&tag=adahar04-20&linkId=JTIMGMF2KAVSHFXC)
+[Seeking a Friend for the End of the World](http://www.amazon.com/gp/product/B009VB9FWS/?tag=adahar09-20)
 
-[Melancholia](http://www.amazon.com/gp/product/B005TJ7EFG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005TJ7EFG&linkCode=as2&tag=adahar04-20&linkId=5VUAWCO4OMG5CUAS)
+[Melancholia](http://www.amazon.com/gp/product/B005TJ7EFG/?tag=adahar09-20)
 
-[Silver Linings Playbook](http://www.amazon.com/gp/product/B00BZAJMWG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BZAJMWG&linkCode=as2&tag=adahar04-20&linkId=A76HFFUHG3ASFJKD)
+[Silver Linings Playbook](http://www.amazon.com/gp/product/B00BZAJMWG/?tag=adahar09-20)
 
-[The Addam’s Family](http://www.amazon.com/gp/product/B0035LJY6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0035LJY6C&linkCode=as2&tag=adahar04-20&linkId=QGBMGDLAEVTFQ2BK)
+[The Addam’s Family](http://www.amazon.com/gp/product/B0035LJY6C/?tag=adahar09-20)
 
-[Batman and Robin](http://www.amazon.com/gp/product/B001XV75MG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001XV75MG&linkCode=as2&tag=adahar04-20&linkId=SAWN23X37GAC3G6G)
+[Batman and Robin](http://www.amazon.com/gp/product/B001XV75MG/?tag=adahar09-20)
 
-[Batman](http://www.amazon.com/gp/product/B0013WJGJ0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0013WJGJ0&linkCode=as2&tag=adahar04-20&linkId=EDXMVJTEXJQHTTUU)
+[Batman](http://www.amazon.com/gp/product/B0013WJGJ0/?tag=adahar09-20)
 
-[Birdman](http://www.amazon.com/gp/product/B00TPJE3ZK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00TPJE3ZK&linkCode=as2&tag=adahar04-20&linkId=ZLY346YSZF6UVJB6)
+[Birdman](http://www.amazon.com/gp/product/B00TPJE3ZK/?tag=adahar09-20)
 
-[The Imitation Game](http://www.amazon.com/gp/product/B00R7FZ074/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00R7FZ074&linkCode=as2&tag=adahar04-20&linkId=XIIFC6X7O7S36ZN3)
+[The Imitation Game](http://www.amazon.com/gp/product/B00R7FZ074/?tag=adahar09-20)
 
-[J. Edgar](http://www.amazon.com/gp/product/B007BLCGNU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007BLCGNU&linkCode=as2&tag=adahar04-20&linkId=ONTGVGJKYFHI2AUH)
+[J. Edgar](http://www.amazon.com/gp/product/B007BLCGNU/?tag=adahar09-20)
 
 [The Web of Tomorrow](http://www.weboftomorrowpodcast.com/)
 
