@@ -9,9 +9,9 @@
 		<language>en</language>
 		<managingEditor>{{ site.managerEmail }} ({{ site.managerName }})</managingEditor>
 		<webMaster>{{ site.managerEmail }} ({{ site.managerName }})</webMaster>
-		<copyright>2014-{{site.time | "%Y" }} {{ site.organizationName }}</copyright>
-		<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
-		<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S GMT" }}</lastBuildDate>
+		<copyright>{{site.time | date: "%Y" }} {{ site.organizationName }}</copyright>
+		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url}}</link>
 			<url>{{ site.url }}/{{ site.squareLogo}}</url>
@@ -27,12 +27,13 @@
 		</itunes:owner>
 		<itunes:image href="{{ site.url }}/{{ site.squareLogo}}" />
 		<itunes:category text="Comedy"></itunes:category>
+		<itunes:category text="Education"></itunes:category>
 		<itunes:explicit>clean</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title }}</title>
 				<link>{{ site.url }}/{{ post.url }}</link>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<guid isPermaLink="true">http://www.podtrac.com/pts/redirect.mp3/{{ post.link }}</guid>
 				<enclosure url="http://www.podtrac.com/pts/redirect.mp3/{{ post.link }}" length="{{ post.size }}" type="audio/mp3"/>
 				<itunes:author>{{ post.speaker }}</itunes:author>
@@ -41,10 +42,9 @@
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:image href="{% if post.image %}{{ site.url }}/{{ post.image }}{% else %}{{ site.url }}/{{site.squareLogo}}{% endif %}" />
 				<itunes:explicit>clean</itunes:explicit>
-				<itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
-				<description><![CDATA[{{ post.content }}]]></description>
+				<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+				<description>{{ post.content | xml_escape }}</description>
 			</item>
 		{% endfor %}
 	</channel>
 </rss>
-
