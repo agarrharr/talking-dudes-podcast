@@ -8,13 +8,8 @@ length: '27:32'
 permalink: /18
 ---
 
-Proverbs 4:23
-
-Proverbs 27:6
-
-James 5:16
-
-Galatians 6:2
-
+- Proverbs 4:23
+- Proverbs 27:6
+- Galatians 6:2
 - [I am Understood - Relient K](https://youtu.be/RVVtEQ-Cbzk)
-- [The power of vulnerability | Brené Brown](https://youtu.be/iCvmsMzlF7o)
+- [The power of vulnerability - Brené Brown](https://youtu.be/iCvmsMzlF7o)
