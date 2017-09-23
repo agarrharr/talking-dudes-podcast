@@ -20,7 +20,7 @@ permalink: /18
 
 *A good working definition of vulnerability is showing people exactly who you are.*
 
-There are varying stages of vulnerability and it takes some people longer to become comfortable enough with someone to be vulnerable with them. So I'm an introvert and so I have to get to know someone before I share certain things about myself.
+There are varying stages of vulnerability and it takes some people longer to become comfortable enough with someone to be vulnerable with them. I'm an introvert and so I have to get to know someone before I share certain things about myself.
 
 *It's definitely a process, and it's not as simple as being vulnerable or not vulnerable. Everyone has differing levels of vulnerability with different people. You might be pretty vulnerable with a close friend or a spouse, but probably not with someone that you meet at a party because you don't know if you can trust them.*
 
@@ -32,15 +32,15 @@ Proverbs 4:23 says "Above all else, guard your heart, for it is the wellspring o
 
 *You do want to be vulnerable, because you do want people to see who you are, but at the same time you need to make sure that those people are worthy of your trust. If you're vulnerable with the wrong person, they can go and crush your heart.*
 
-Another verse goes along with that. Proverbs 27:6 says "Wounds from a friend can be trusted, but an enemy multiplies kisses." The wound from a friend only comes when you've trusted them, and you were vulnerable with them enough, that they knew you enough to tell you some truth that hurt, but you're going to be able to take that feedback and doing something with it.
+Another verse goes along with that. Proverbs 27:6 says "Wounds from a friend can be trusted, but an enemy multiplies kisses." The wound from a friend only comes when you've trusted them, and you were vulnerable with them enough that they knew you enough to tell you some truth that hurt. But you're going to be able to take that feedback and do something with it.
 
-*Sometimes that friend sees an infected wound and they have to cut it open and sear it, in order for that to heal. It's not a fun process, but it's important.*
+*Sometimes that friend sees an infected wound and they have to cut it open and sear it in order for it to heal. It's not a fun process, but it's important.*
 
 ## Being Your True Self Requires Vulnerability
 
-There's definitely some benefits to it, even though it might hurt. James 5:16 says that when you confess your sins to each other, then you pray for each other, and it can help you heal.
+There's definitely some benefits to it, even though it might hurt. James 5:16 says that when you confess your sins to each other, then you can pray for each other, and it can help you heal.
 
-*In order for you to be who you really are, that requires vulnerability. You can live a life where you are just a shadow of yourself. A lot of people have gone through this a some point, in high school, or junior high, where you just wanted to be one of the cool kids. So you tried to match what the cools kids were doing, but it wasn't really you. There's nothing wrong with wanting to fit in. We all want to feel like we belong. That's part of the way God designed us. But it becomes a problem when you can't live out who you actually are.*
+*In order for you to be who you really are, that requires vulnerability. You can live a life where you are just a shadow of yourself. A lot of people have gone through this at some point, in high school, or junior high, where you just wanted to be one of the cool kids. So you tried to match what the cools kids were doing, but it wasn't really you. There's nothing wrong with wanting to fit in. We all want to feel like we belong. That's part of the way God designed us. But it becomes a problem when you can't live out who you actually are.*
 
 We all have this deep desire to know people and to be known. And to love people and to be loved. This goes wrong when we want to be loved, so we hide who we really are, and put on a mask of who we think people want us to be.
 
@@ -52,13 +52,13 @@ I see superficial conversations all the time about common interests. Take season
 
 The opposite of that would be to say, "Hey, what's going on in your life." Guys in particular, don't ask that question.
 
-*There was someone in my life that would say "How are you doing?" and I would say, "I'm good". And then they would look me in the eyes and say "No, how are you doing?". So, dig a little deep and don't just be satisfied with "I'm fine." Tell me what's going on in your heart. What are you struggling with. What are your highs? What are your lows? It's really challenging.*
+*There was someone in my life that would say "How are you doing?" and I would say, "I'm good". And then they would look me in the eyes and say "No, how are you doing?". So, dig a little deeper and don't just be satisfied with "I'm fine." Tell me what's going on in your heart. What are you struggling with. What are your highs? What are your lows? It's really challenging.*
 
 ## Why is it so difficult?
 
 When you're vulnerable, you're opening yourself up to potential hurt. You might wonder if it's worth it. If you go through with all this effort to get to know someone, and open up to them, what if you don't like them? Or what if they move away? Or what if they hurt you?
 
-*I saw a video where they posited that there is no such thing as boring people. Ther is only a lack of vulnerability. Usually when you sense that emptiness, or boringness in a person, it's just that they're not telling you anything. They're saying words, but those words have no meaning and no weight.*
+*I saw a video where they posited that there is no such thing as boring people. There is only a lack of vulnerability. Usually when you sense that emptiness, or boringness in a person, it's just that they're not telling you anything. They're saying words, but those words have no meaning and no weight.*
 
 *That's especially frustrating for introverts. I want the depth. I'm not looking for that surface level conversation. I'm looking for that conversation that ultimately helps me to understand who you are and maybe you can understand who I am.*
 
@@ -78,7 +78,7 @@ Recently at work, instead of having the same boring conversations, I started ask
 
 And it's freeing, no matter what happens in that relationship, no matter how that person responds. Just laying it out on the table is a freeing thing.
 
-*Whenever you don't share, you've created disconnection. There's an illusion that youhaven't created disconnection because you think "I haven't said anything, so it must be fine." But it's not fine. It's the opposite. But you don't think through that ogically. That part of your brain is turned off because you're so afraid of what that disconnection would look like.*
+*Whenever you don't share, you've created disconnection. There's an illusion that you haven't created disconnection because you think "I haven't said anything, so it must be fine." But it's not fine. It's the opposite. But you don't think through that logically. That part of your brain is turned off because you're so afraid of what that disconnection would look like.*
 
 It's really a childish thing that kids do all the time, where they think "No one has to know."
 
@@ -94,13 +94,13 @@ Be vulnerable where appropriate, and as much as is appropriate. You shouldn't ju
 
 ## Make Sure You Have The Right Kind of People In Your Life
 
-*But you need to make sure that you have people that you can be vulnerable with. You should be cultivating those relationships. And if you can think of anyone that you could be vulnerable with, then it's time for you to make some new relationships because there are people out there you are ready for this.*
+*You need to make sure that you have people that you can be vulnerable with. You should be cultivating those relationships. And if you can't think of anyone that you could be vulnerable with, then it's time for you to make some new relationships because there are people out there you are ready for this.*
 
-*I found those people by extending grace to those people. Henry Ward Beecher said "Every man should keep a fair-sized cemetery in which to bury the faults of his friends." And it's so true because if you're having a real relationship with someone, you're going to get hurt in some way. And conflict is something we'll talk about on a future episode, but conflict breeds vulnerability.*
+*I found those people by extending grace to people. Henry Ward Beecher said "Every man should keep a fair-sized cemetery in which to bury the faults of his friends." And it's so true because if you're having a real relationship with someone, you're going to get hurt in some way. And conflict is something we'll talk about on a future episode, but conflict breeds vulnerability.*
 
 > *If you do a conflict well, at the end of that conflict, you should be closer to that person, not further away.*
 
-*And you have to put yourself out there in a position where you can be hurt, which by definition is vulnerability. And I would start with the people in your life who feel safe. If you can't think of anybody, start praying about it. Say, "God, reveal the people in my life who are save, and if there is no one in my life, bring me that person." And I would hope that you would be able to find some safe people in whatever church body you're plugged into: people who can look at you in love and say "I accept you for where you are. I don't think you're perfect, but I accept you, and I'm going to choose to love you anyway."*
+*And you have to put yourself out there in a position where you can be hurt, which by definition is vulnerability. I would start with the people in your life who feel safe. If you can't think of anybody, start praying about it. Say, "God, reveal the people in my life who are safe, and if there is no one in my life, bring me that person." And I would hope that you would be able to find some safe people in whatever church body you're plugged into: people who can look at you in love and say "I accept you for where you are. I don't think you're perfect, but I accept you, and I'm going to choose to love you anyway."*
 
 And those people may not look just like you. They may not look like someone that you would expect to be your best friend.
 
@@ -110,4 +110,8 @@ And those people may not look just like you. They may not look like someone that
 
 ## Song
 
-*I want to recommend a song that everyone should listen to. It's called [I am Understood? by Relient K](https://youtu.be/RVVtEQ-Cbzk). The first line is "Sometimes it's embarrassing to talk to you. To hold a conversation with the only one who sees right through this version of myself I try to hide behind. I'll bury my face because my disgrace will leave me terrified." This is really talking about what vulnerability with God looks like and it's powerful stuff.*
+*I want to recommend a song that everyone should listen to. It's called [I am Understood? by Relient K](https://youtu.be/RVVtEQ-Cbzk). The first line is:*
+
+"Sometimes it's embarrassing to talk to you. To hold a conversation with the only one who sees right through this version of myself I try to hide behind. I'll bury my face because my disgrace will leave me terrified."
+
+*This is really talking about what vulnerability with God looks like and it's powerful stuff.*
