@@ -9,12 +9,8 @@ permalink: /14
 published: false
 ---
 
-[Panda Extension](http://usepanda.com/)
-
-[Eloquent JavaScript](http://www.amazon.com/gp/product/1593275846/?tag=adahar09-20)
-
-[John Reuben - Nuisance](https://youtu.be/BIqpvAqyWAc)
-
-[Instapaper](https://www.instapaper.com/)
-
-[Windows 10](https://en.wikipedia.org/wiki/Windows_10)
+- [Panda Extension](http://usepanda.com/)
+- [Eloquent JavaScript](http://www.amazon.com/gp/product/1593275846/?tag=adahar09-20)
+- [John Reuben - Nuisance](https://youtu.be/BIqpvAqyWAc)
+- [Instapaper](https://www.instapaper.com/)
+- [Windows 10](https://en.wikipedia.org/wiki/Windows_10)

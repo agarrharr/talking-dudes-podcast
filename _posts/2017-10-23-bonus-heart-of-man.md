@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "S02 Bonus: Heart of Man Review"
-summary: ""
+title: "S02 Bonus: The Heart of Man Review"
+summary: "We want and saw The Heart of Man in the theater, the one night it was showing, so we wanted to discuss how we felt about it."
 link: https://s3.amazonaws.com/talkingdudes/2017-10-23-21.mp3
 size: 10438958
 length: '21:45'
